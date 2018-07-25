@@ -11,8 +11,8 @@
 
  <div class="topnav" id="myTopnav">
  <a href="index.html">Home</a>
- <a href="Page 1html">page1</a>
-<a href="Page 2.html">page2</a>
+ <a href="Page 1html">Page 1</a>
+<a href="Page 2.html">Page 2</a>
 
  </div>
 
