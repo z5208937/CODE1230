@@ -30,10 +30,10 @@ Beautiful Image #1
 <img src="https://c1.staticflickr.com/9/8363/8350805295_6be9dbaff9_b.jpg" alt="image missing!" style="width:100%" />
 
 <p>
- Prismatic
- Juxtaposition
- Circuit
- Crammed
+ Prismatic<br>
+ Juxtaposition<br>
+ Circuit<br>
+ Crammed<br>
  </p>
  
 <footer> 
