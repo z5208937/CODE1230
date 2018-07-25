@@ -1,11 +1,10 @@
-## Hello World!!!
 
 <!DOCTYPE html>
 <html>
 
 <head>
 <link rel="stylesheet" type="text/css" href="style.css"/>
-<title>My first website</title>
+<title>CODE 1230 Website</title>
 </head>
 
 <body>
