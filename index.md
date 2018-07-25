@@ -23,13 +23,18 @@
 <h1>Week 1</h1>
 
 <p>
-5 Beautiful Images
+Beautiful Image #1
 </p>
 
 
 <img src="https://c1.staticflickr.com/9/8363/8350805295_6be9dbaff9_b.jpg" alt="image missing!" style="width:100%" />
 
- 
+<p>
+ Prismatic
+ Juxtaposition
+ Circuit
+ Crammed
+ </p>
  
 <footer> 
 <a href="https://github.com/madeleinejohanson"> your footer text here</a>
