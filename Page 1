@@ -1,29 +1,36 @@
+
 <!DOCTYPE html>
 <html>
 
 <head>
 <link rel="stylesheet" type="text/css" href="style.css"/>
-<title>My first website</title>
+<title>CODE 1230</title>
 </head>
 
 <body>
 
  <div class="topnav" id="myTopnav">
  <a href="index.html">Home</a>
- <a href="Page 1.html">Page 1</a>
-<a href="Page 2.html">Page 2</a>
+ <a href="page1.html">City 1</a>
+ <a href="page2.html">City 2</a>
+ <a href="page3.html">City 3</a>
+ <a href="page4.html">City 4</a>
+  
 
  </div>
 
 
-<h1>This is page 1</h1>
+<h1>Week 1</h1>
 
-<p>paragraph text here<br><br>
-this is a new line
+<p>
+5 Beautiful Images
 </p>
 
-<img src="http://cdn1.buuteeq.com/upload/6202/frink_roatan_2015_460.jpg" alt="image missing!" style="width:25%" />
 
+<img src="https://c1.staticflickr.com/9/8363/8350805295_6be9dbaff9_b.jpg" alt="image missing!" style="width:100%" />
+
+ 
+ 
 <footer> 
 <a href="https://github.com/madeleinejohanson"> your footer text here</a>
 </footer>
