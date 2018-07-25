@@ -11,8 +11,10 @@
 
  <div class="topnav" id="myTopnav">
  <a href="index.html">Home</a>
- <a href="page1.html">Page 1</a>
- <a href="page2.html">Page 2</a>
+ <a href="page1.html">City 1</a>
+ <a href="page2.html">City 2</a>
+ <a href="page3.html">City 3</a>
+ <a href="page4.html">City 4</a>
   
 
  </div>
