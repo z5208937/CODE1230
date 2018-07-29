@@ -3,7 +3,7 @@
 
 <head>
 <link rel="stylesheet" type="text/css" href="style.css"/>
-<title>CODE 1230</title>
+<title>CODE1230</title>
 </head>
 
 <body>
