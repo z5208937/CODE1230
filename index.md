@@ -32,7 +32,7 @@ Beautiful Image #1
  Prismatic<br>
  Juxtaposition<br>
  Circuit<br>
- Crammed<br>
+ Density<br>
  </p>
  
 <footer> 
