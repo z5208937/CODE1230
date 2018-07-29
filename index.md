@@ -3,7 +3,7 @@
 
 <head>
 <link rel="stylesheet" type="text/css" href="style.css"/>
-<title>CODE1230</title>
+<title> CODE 1230 </title>
 </head>
 
 <body>
@@ -35,9 +35,6 @@ Beautiful Image #1
  Density<br>
  </p>
  
-<footer> 
-<a href="https://github.com/madeleinejohanson"> your footer text here</a>
-</footer>
 
 </body>
 
