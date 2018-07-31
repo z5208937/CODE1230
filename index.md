@@ -39,19 +39,19 @@ Beautiful Image #1
  <br>
  Juxtaposition
  <br>
- <img src="3-1.jpg" alt="image missing!" />
+ <img src="3-1.JPG" alt="image missing!" />
  <br>
  Circuit
   <br>
- <img src="3-4.jpg" alt="image missing!" />
+ <img src="3-4.JPG" alt="image missing!" />
  <br>
  Density
   <br>
- <img src="3-2.jpg" alt="image missing!" />
+ <img src="3-2.JPG" alt="image missing!" />
  <br>
  Monolith
   <br>
- <img src="3-3.jpg" alt="image missing!" />
+ <img src="3-3.JPG" alt="image missing!" />
  </p>
  
 
