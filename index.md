@@ -33,10 +33,25 @@ Beautiful Image #1
 <img src="https://c1.staticflickr.com/9/8363/8350805295_6be9dbaff9_b.jpg" alt="image missing!" style="width:100%" />
 
 <p>
- Prismatic<br>
- Juxtaposition<br>
- Circuit<br>
- Density<br>
+ Prismatic
+ <br>
+ <img src="3-5.jpg" alt="image missing!" />
+ <br>
+ Juxtaposition
+ <br>
+ <img src="3-1.jpg" alt="image missing!" />
+ <br>
+ Circuit
+  <br>
+ <img src="3-4.jpg" alt="image missing!" />
+ <br>
+ Density
+  <br>
+ <img src="3-2.jpg" alt="image missing!" />
+ <br>
+ Monolith
+  <br>
+ <img src="3-3.jpg" alt="image missing!" />
  </p>
  
 
