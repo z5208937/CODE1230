@@ -35,7 +35,7 @@ Beautiful Image #1
 <p>
  Prismatic
  <br>
- <img src="3-5.jpg" alt="image missing!" />
+ <img src="3-5.JPG" alt="image missing!" />
  <br>
  Juxtaposition
  <br>
